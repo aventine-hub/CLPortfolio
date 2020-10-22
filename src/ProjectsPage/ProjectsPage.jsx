@@ -15,7 +15,7 @@ class ProjectsPage extends Component {
                     <p>CONNECT IV is a two player game wherein the objective is to connect four of your pieces
                     horizontally, vertically, or diagonally, while preventing your opponent from doing the same!
                     In this version take on the role of the Patricians in their ancient game of wit and leisure. This
-                    simple Roman-themed app is done with Javascript, HTML, and CSS</p>
+                    simple Roman-themed app is done with Javascript, HTML, and CSS.</p>
                     <a href="https://aventine-hub.github.io/CONNECT-IV/" >ConnectIV</a>
                 </div>
 
