@@ -9,9 +9,13 @@
 }
 
 .projects h1 {
-    /* margin-top: 10vh; */
     grid-row: 1;
     grid-column: 2;
+}
+
+.projects a {
+    
+    color: white;
 }
 
 .projects img {

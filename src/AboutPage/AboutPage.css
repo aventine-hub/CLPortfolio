@@ -30,6 +30,9 @@ svg:hover #hex {
     text-decoration: none;
   }
 
+.about a {
+    color: white;
+}
 .about h1 {
     grid-row: 1;
     grid-column: 2;
