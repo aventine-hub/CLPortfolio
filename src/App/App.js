@@ -17,12 +17,18 @@ class App extends Component {
             <NavBar />
           </nav>
         </header>
+
         <Switch>
-          <Route exact path='/' render={() => <HomePage />} />
-          <Route exact path='/about' render={() => <AboutPage />} />
+          <Route exact path='/' render={() => <><HomePage /><AboutPage /> </>} />
           <Route exact path='/resume' render={() => <ResumePage />} />
           <Route exact path='/projects' render={() => <ProjectsPage />} />
         </Switch>
+
+        <footer>
+          &nbsp;
+          <h5>Portfolio coded in <span>React</span> by <span>CAL</span> </h5>
+        </footer>
+
       </>
     );
   }

@@ -5,9 +5,8 @@ import './NavBar.css';
 const NavBar = () => {
     let nav =
         <div className="Nav">
+
             <NavLink className="link" exact to='/' >Home</NavLink>
-      &nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-      <NavLink className="link" exact to='/about' >About</NavLink>
       &nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
       <NavLink className="link" exact to='/resume' >Resume</NavLink>
       &nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
