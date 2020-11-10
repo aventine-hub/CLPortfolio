@@ -32,7 +32,7 @@ class AboutPage extends Component {
 
                 </div>
                 <h2>Skills</h2>
-                <span>Javascript | HTML | Microsoft Excel | Python | Django | React.js | Cascading Style Sheets |
+                <span>Javascript | Microsoft Excel | Python | Django | React.js | Cascading Style Sheets |
                 Git | GitHub | PostgreSQL | MongoDB | Node.js | HTML5 | Problem Solving | Management | Communication |
                 Leadership | Training | Teaching </span>
 
