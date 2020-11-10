@@ -28,6 +28,7 @@ svg:hover #hex {
     align-content: center;
     color : white;
     text-decoration: none;
+    padding-bottom: 15px;
   }
 
 .about a {

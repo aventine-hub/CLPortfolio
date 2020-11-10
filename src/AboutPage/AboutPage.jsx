@@ -24,18 +24,11 @@ class AboutPage extends Component {
                 I have experience with the latest front- and back-end programming languages, tools, and methodologies
                 including: HTML, CSS, SASS, Javascript, jQuery, PostgreSQL, MongoDB, Ruby, Ruby on Rails,
                 AngularJS, NodeJS, ReactJS, Wordpress, Git, Github, and Agile/Scrum.
-                    <ul>
-                        <li><a href="https://www.linkedin.com/in/chrisallenlong/" >LinkedIn</a></li>
-                        <br></br>
-                        <li><a href="https://github.com/aventine-hub/" >Git Hub</a></li>
-                    </ul>
-
                 </div>
                 <h2>Skills</h2>
                 <span>Javascript | Microsoft Excel | Python | Django | React.js | Cascading Style Sheets |
                 Git | GitHub | PostgreSQL | MongoDB | Node.js | HTML5 | Problem Solving | Management | Communication |
                 Leadership | Training | Teaching </span>
-
             </div>
 
         );
