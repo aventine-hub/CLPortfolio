@@ -26,7 +26,7 @@ class App extends Component {
 
         <footer>
           &nbsp;
-          <h5>Portfolio coded in <span>React</span> by <span>CAL</span> </h5>
+          <h5>Portfolio coded in React by Chris Long </h5>
         </footer>
 
       </>

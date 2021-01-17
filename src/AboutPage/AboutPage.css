@@ -57,3 +57,7 @@ svg:hover #hex {
     grid-column: 2;
     width: 55vw;
 }
+
+.about img {
+  margin-top: -3px;
+}
