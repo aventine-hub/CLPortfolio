@@ -3,6 +3,7 @@ import './ProjectsPage.css';
 import sneaker from './Projects/Sneaker.png';
 import swimhole from './Projects/Swimhole.png';
 import connect from './Projects/ConnectIV.png';
+import bols from './Projects/BoLSInteractive.png';
 
 
 class ProjectsPage extends Component {
@@ -34,6 +35,14 @@ class ProjectsPage extends Component {
                     Whether it's to show the some drip or trade for chip, Sneakerheadz is the community to be in! This
                     app was developed in a group using Python3, Django, CSS, Javascript, HTML, and AWS S3.</p>
                     <a href="https://sneaker-headz.herokuapp.com/" >SneakerHeadz</a>
+                </div>
+
+                <img className="pro4" src={bols} alt="BoLS Interactive" />
+                <div className="link4">
+                    <p>BoLS Interactive is a Wordpress project created for the marketing wing of a large wargames news network. It was built to
+                    the specifics of the client using the HEAP theme by Pixelgrade.
+                    </p>
+                    <a href="https://www.bolsinteractive.com/" >BoLS Interactive</a>
                 </div>
             </div>
         );

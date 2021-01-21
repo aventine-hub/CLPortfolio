@@ -12,14 +12,11 @@ body {
 
 footer {
 text-align: right;
-
+margin-top: 25vh;
 }
 
 footer h5 {
   padding-right: 50px;
+  
 }
 
-footer span {
-  background-image: linear-gradient(to left, violet, green, yellow, orange, red);   -webkit-background-clip: text;
-  color: transparent; 
-}
