@@ -32,13 +32,9 @@ class AboutPage extends Component {
                 experience as an elementary school educator and manager.
                 I strive to create efficient, effective, and innovative solutions to complex problems.
                 <br></br>
-                    <br></br>
-                I have experience with the latest front- and back-end programming languages, tools, and methodologies
-                including: HTML, CSS, SASS, Javascript, jQuery, PostgreSQL, MongoDB, Ruby, Ruby on Rails,
-                AngularJS, NodeJS, ReactJS, Wordpress, Git, Github, and Agile/Scrum.
                 </div>
                 <h2>Skills</h2>
-                <span>Cascading Style Sheets | Communication | Django | Git | GitHub | HTML5 | Javascript | Microsoft Excel | MongoDB | Node.js | Python | PostgreSQL | Problem Solving | React.js | Webflow | Wordpress</span>
+                <span>Django | Git | GitHub | MongoDB | Node.js | Python | PostgreSQL | React.js | Webflow | Wordpress</span>
                 {/* <span><img src={react} alt="" /><img src={mongodb} alt="" /><img src={django} alt="" /><img src={python} alt="" />
                     <img src={html5} alt="" /><img src={javascript} alt="" /><img src={css} alt="" /><img src={nodejs} alt="" />
                     <img src={postgresql} alt="" /><img src={github} alt="" /><img src={bootstrap} alt="" /><img src={wordpress} alt="" /> </span> */}
