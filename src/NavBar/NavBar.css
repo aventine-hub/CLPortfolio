@@ -21,3 +21,10 @@
 .hexpattern {
    width: 10px;
 }
+
+@media only screen and (max-width: 700px) {
+  .Nav {
+    height: 10vh;
+    width: 100vw
+  }
+} 
