@@ -30,3 +30,5 @@ const NavBar = () => {
 };
 
 export default NavBar;
+
+//make into hamburger menu
