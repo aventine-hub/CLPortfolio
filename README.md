@@ -1,68 +1,48 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Chris A Long
 
-## Available Scripts
+Austin, TX | (512) 332-4074 | c.aventine@gmail.com | linkedin.com/in/chrisallenlong/ | 
+github.com/aventine-hub | clportfolio2020.herokuapp.com/
+_____________________________________________________________________________________
 
-In the project directory, you can run:
+### Software Developer 
 
-### `npm start`
+I am a creative and result-oriented full-stack web developer with a passion for learning. My communication, patience, and ability to synthesize and pass on information is rooted in my previous experience as an elementary school educator and manager. I strive to create efficient, effective, and innovative solutions to complex problems.
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Skills
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+Javascript | Microsoft Excel | Python | Java | Django | React.js | Cascading Style Sheets | Git | GitHub | PostgreSQL | MongoDB | Node.js | HTML5 | Wordpress | Problem Solving | Management | Communication | Leadership | Training | Teaching  
 
-### `npm test`
+### Experience
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+#### BoLS Interactive LLC | Austin, TX
+Web Developer, 2021 (Contract)
 
-### `npm run build`
+- Implemented full redesign (child theme) of corporate Wordpress website according to customer specifications and to customer satisfaction.
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Resulted in 150% increase in through traffic for website
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+#### General Assembly | Austin, TX 
+Software Engineering Immersive Student, July 2020 - October 2020 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Three-month, 500-hour full-time and full-stack program conducted in a remote setting, providing experience with the latest front- and back-end programming languages, tools, and methodologies including: HTML, CSS, SASS, Javascript, jQuery, PostgreSQL, MongoDB, Ruby, Ruby on Rails, AngularJS, NodeJS, ReactJS, Wordpress, Git, Github, and Agile/Scrum. 
 
-### `npm run eject`
+Developed a portfolio of individually and collaboratively focused in-class projects.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+#### Mariposa Montessori School | Austin, TX 
+Elementary Guide, August 2018 - August 2020
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- Provided a consistent and pleasant environment for children aged 6-9.
+- Planned and coordinated successful community events for 200+ families.
+- Successfully guided children through challenges, both educational and emotional. 
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+#### Texas Parks and Wildlife Department | Houston, TX and Austin, TX
+Outdoor Recreation Coordinator, June 2016 - August 2018
+- Assisted and co-lead Texas Outdoor Family Programs in Texas State Parks.
+- Conducted award-winning outdoor education programs including camping, fishing, hiking, kayaking, geocaching, biking, and outdoor cooking.
+- Planned and conducted outreach events on behalf of Texas State Parks; spoke with over 2,000 stakeholders about Texas State Parks between June and August.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+### Education
+B.S. in Fisheries and Wildlife Sciences | Oregon State University
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+Software Engineering Immersive | General Assembly Austin 
