@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import './AboutPage.css';
-//import forest from './images/forest copy.jpg'
 // import bootstrap from './images/bootstrap-2.png';
 // import css from './images/css-2.png';
 // import django from './images/django-2.png';
@@ -18,14 +17,13 @@ class AboutPage extends Component {
     render() {
         return (
             <div className="about">
-                {/* <img src={forest} /> */}
                 <svg viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg">
                     <defs>
-                        <pattern id="img" patternUnits="userSpaceOnUse" width="100" height="100">
-                            <image href="chris_photo.png" x="-25" width="150" height="100" />
+                        <pattern id="img2" patternUnits="userSpaceOnUse" width="100" height="100">
+                            <image href="forest copy.jpg" x="-25" width="150" height="100" />
                         </pattern>
                     </defs>
-                    <polygon id="hex" points="50 1 95 25 95 75 50 99 5 75 5 25" fill="url(#img)" />
+                    <polygon id="hex" points="50 1 95 25 95 75 50 99 5 75 5 25" fill="url(#img2)" />
 
                 </svg>
                 <h1>Chris Long</h1>
