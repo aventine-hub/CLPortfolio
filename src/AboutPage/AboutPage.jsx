@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import './AboutPage.css';
+//import forest from './images/forest copy.jpg'
 // import bootstrap from './images/bootstrap-2.png';
 // import css from './images/css-2.png';
 // import django from './images/django-2.png';
@@ -17,6 +18,7 @@ class AboutPage extends Component {
     render() {
         return (
             <div className="about">
+                {/* <img src={forest} /> */}
                 <svg viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg">
                     <defs>
                         <pattern id="img" patternUnits="userSpaceOnUse" width="100" height="100">

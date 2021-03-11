@@ -26,7 +26,7 @@ const useStyles = makeStyles((theme) => ({
         fontSize: "24.0263px",
     },
     navbar: {
-        backgroundImage: 'url("https://i.imgur.com/ECN8PNO.jpg")',
+        backgroundImage: 'url("https://i.imgur.com/99fCkda.jpg")',
         backgroundRepeat: 'no-repeat',
         backgroundSize: 'cover',
         backgroundAttachment: 'fixed',
