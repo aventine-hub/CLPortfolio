@@ -27,7 +27,7 @@ class AboutPage extends Component {
 
                 </svg>
                 <h1>Chris Long</h1>
-                <div>I am a creative and result-oriented full-stack web developer with a passion for learning.
+                <div>Hello! I am a creative and result-oriented full-stack web developer with a passion for learning.
                 My communication, patience, and ability to synthesize and pass on information is rooted in my previous
                 experience as an elementary school educator and manager.
                 I strive to create efficient, effective, and innovative solutions to complex problems.
