@@ -65,7 +65,7 @@ export default function MenuAppBar() {
             <AppBar position="static">
                 <Toolbar className={classes.navbar}>
                     <Typography variant="h6" className={classes.title}>
-                        <img className="hexpattern" src={hex} alt="hex pattern" />
+                        <Link to=''><img className="hexpattern" src={hex} alt="hex pattern" /></Link>
                     </Typography>
                     <div>
                         <IconButton aria-controls="menu-appbar"
