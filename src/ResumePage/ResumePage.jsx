@@ -8,7 +8,7 @@ class ResumePage extends Component {
         return (
             <div className="flex">
                 <br></br>
-                <a download href="ChrisLong Resume.pdf">Download Resume</a>
+                <a download href="Chris Long - GA Resume.pdf">Download Resume</a>
                 <br></br>
                 <img className="resume" src={resume} alt="resume" />
 
