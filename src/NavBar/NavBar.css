@@ -1,4 +1,15 @@
+.head {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
 
+.link {
+  
+  color : white;
+  text-decoration: none;
+}
 
 .hexpattern {
    width: 8vw;
@@ -15,5 +26,8 @@ Menu {
   }
   .hexpattern {
     width: 15vw;
+  }
+  .head {
+    visibility: hidden;
   }
 } 

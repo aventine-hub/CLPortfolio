@@ -44,6 +44,7 @@ const useStyles = makeStyles((theme) => ({
 
     },
 
+
 }));
 
 export default function MenuAppBar() {
@@ -64,22 +65,26 @@ export default function MenuAppBar() {
         <div className={classes.root}>
             <AppBar position="static">
                 <Toolbar className={classes.navbar}>
+
                     <Typography variant="h6" className={classes.title}>
                         <Link to=''><img className="hexpattern" src={hex} alt="hex pattern" /></Link>
                     </Typography>
-                    <div className="Nav">
+                    <div className="head">
 
                         <NavLink className="link" exact to='/' >Home</NavLink>
-      &nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-      <NavLink className="link" exact to='/resume' >Resume</NavLink>
-      &nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-      <NavLink className="link" exact to='/projects' >Projects</NavLink>
-      &nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-      <a className="link" href="https://www.linkedin.com/in/chrisallenlong/" >LinkedIn</a>
-      &nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-      <a className="link" href="https://github.com/aventine-hub/" >GitHub</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<NavLink className="link" exact to='/resume' >Resume</NavLink>
+&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<NavLink className="link" exact to='/projects' >Projects</NavLink>
+&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a className="link" href="https://www.linkedin.com/in/chrisallenlong/" >LinkedIn</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a className="link" href="https://github.com/aventine-hub/" >GitHub</a>
 
                     </div>
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+&nbsp;&nbsp;
                     <div>
                         <IconButton aria-controls="menu-appbar"
                             aria-haspopup="true"

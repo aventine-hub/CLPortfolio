@@ -32,8 +32,10 @@ class ProjectsPage extends Component {
                 <img className="pro3" src={sneaker} alt="Sneaker Headz" />
                 <div className="link3">
                     <p>SneakerHEADz is an app designed to allow shoe enthusiasts to add and view a collection of sneakers.
-                    Whether it's to show the some drip or trade for chip, Sneakerheadz is the community to be in! This
-                    app was developed in a group using Python3, Django, CSS, Javascript, HTML, and AWS S3.</p>
+                    Whether it's to show the some drip or trade for chip, Sneakerheadz is the community to be in!
+                    <br></br>
+                        <br></br>
+                    This app was developed in a group using Python3, Django, CSS, Javascript, HTML, and AWS S3.</p>
                     <a href="https://sneaker-headz.herokuapp.com/" >SneakerHeadz</a>
                 </div>
 
@@ -41,6 +43,12 @@ class ProjectsPage extends Component {
                 <div className="link4">
                     <p>BoLS Interactive is a Wordpress project created for the marketing wing of a large wargames news network. It was built to
                     the specifics of the client using the HEAP theme by Pixelgrade.
+                    <br></br>
+                        <br></br>
+                    Included refactoring legacy PHP with limited functionality.
+                    <br></br>
+                        <br></br>
+                    Resulted in 150% increase in through traffic for website.
                     </p>
                     <a href="https://www.bolsinteractive.com/" >BoLS Interactive</a>
                 </div>

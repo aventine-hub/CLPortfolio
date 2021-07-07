@@ -34,7 +34,7 @@ class AboutPage extends Component {
                 <br></br>
                 </div>
                 <h2>Skills</h2>
-                <span>Django | Git | GitHub | MongoDB | Node.js | Python | PostgreSQL | React.js | Webflow | Wordpress</span>
+                <span>Django | Git | GitHub | MongoDB | Node.js | PHP | Python | PostgreSQL | React.js | Webflow | Wordpress</span>
                 {/* <span><img src={react} alt="" /><img src={mongodb} alt="" /><img src={django} alt="" /><img src={python} alt="" />
                     <img src={html5} alt="" /><img src={javascript} alt="" /><img src={css} alt="" /><img src={nodejs} alt="" />
                     <img src={postgresql} alt="" /><img src={github} alt="" /><img src={bootstrap} alt="" /><img src={wordpress} alt="" /> </span> */}
