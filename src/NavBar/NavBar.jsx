@@ -7,7 +7,7 @@ import IconButton from '@material-ui/core/IconButton';
 import MenuIcon from '@material-ui/icons/Menu';
 import MenuItem from '@material-ui/core/MenuItem';
 import Menu from '@material-ui/core/Menu';
-import { Link } from 'react-router-dom';
+import { Link, NavLink } from 'react-router-dom';
 import './NavBar.css';
 import hex from './hexpattern.png';
 
@@ -67,6 +67,19 @@ export default function MenuAppBar() {
                     <Typography variant="h6" className={classes.title}>
                         <Link to=''><img className="hexpattern" src={hex} alt="hex pattern" /></Link>
                     </Typography>
+                    <div className="Nav">
+
+                        <NavLink className="link" exact to='/' >Home</NavLink>
+      &nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+      <NavLink className="link" exact to='/resume' >Resume</NavLink>
+      &nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+      <NavLink className="link" exact to='/projects' >Projects</NavLink>
+      &nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+      <a className="link" href="https://www.linkedin.com/in/chrisallenlong/" >LinkedIn</a>
+      &nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+      <a className="link" href="https://github.com/aventine-hub/" >GitHub</a>
+
+                    </div>
                     <div>
                         <IconButton aria-controls="menu-appbar"
                             aria-haspopup="true"
