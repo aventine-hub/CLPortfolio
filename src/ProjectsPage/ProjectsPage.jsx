@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
 import './ProjectsPage.css';
-import sneaker from './Projects/Sneaker.png';
-import swimhole from './Projects/Swimhole.png';
+import sneaker from './Projects/Sneaker.jpg';
+import swimhole from './Projects/Swimhole.jpg';
 import connect from './Projects/ConnectIV.png';
-import bols from './Projects/BoLSInteractive.png';
+import bols from './Projects/BoLSInteractive.jpg';
 
 
 class ProjectsPage extends Component {
