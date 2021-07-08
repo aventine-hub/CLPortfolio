@@ -3,19 +3,20 @@
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  color : white;
+  color : black;
   text-decoration: none;
   background-image: url("https://i.imgur.com/99fCkda.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
   height: 20vh;
-  
+  text-shadow: 1px 1px 1px whitesmoke;
 }
 
 .link {
-  color : white;
+  color : black;
   text-decoration: none;
+  text-shadow: 1px 1px 1px whitesmoke;
 }
 .hexpattern {
    width: 8vw;
