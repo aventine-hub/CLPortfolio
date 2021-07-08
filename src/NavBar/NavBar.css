@@ -1,22 +1,25 @@
-.head {
+.Nav {
   display: flex;
   flex-direction: row;
-  align-items: flex-start;
-  justify-content: flex-start;
+  align-items: center;
+  justify-content: center;
+  color : white;
+  text-decoration: none;
+  background-image: url("https://i.imgur.com/99fCkda.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 20vh;
+  
 }
 
 .link {
-  
   color : white;
   text-decoration: none;
 }
-
 .hexpattern {
    width: 8vw;
-}
-
-Menu {
-  background-color: "grey",
+   align-self: flex-start;
 }
 
 @media only screen and (max-width: 700px) {
@@ -24,10 +27,14 @@ Menu {
     height: 10vh;
     width: 100vw
   }
+  
+} 
+
+@media only screen and (max-width: 480px) {
+  .link {
+    font-size: 80%;
+  }
   .hexpattern {
     width: 15vw;
-  }
-  .head {
-    visibility: hidden;
   }
 } 
