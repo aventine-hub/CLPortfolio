@@ -19,7 +19,7 @@
 
 .projects img {
     width: 25vw;
-    height: 20vh;
+    height: auto;
     margin-top: 20px;
 }
 
@@ -83,7 +83,9 @@
     margin-left: 15px;
 }
 
-@media only screen and (max-width: 700px) {
+
+
+@media only screen and (max-width: 1000px) {
     .projects img {
         width: 40vw;
         height: auto;
@@ -93,3 +95,4 @@
         margin-bottom: 3em;
     }
   } 
+
