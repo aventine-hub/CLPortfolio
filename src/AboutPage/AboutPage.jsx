@@ -1,17 +1,5 @@
 import React, { Component } from 'react';
 import './AboutPage.css';
-// import bootstrap from './images/bootstrap-2.png';
-// import css from './images/css-2.png';
-// import django from './images/django-2.png';
-// import github from './images/github-2.png';
-// import html5 from './images/html5-2.png';
-// import javascript from './images/javascript-2.png';
-// import mongodb from './images/mongodb-2.png';
-// import nodejs from './images/nodejs-2.png';
-// import postgresql from './images/postgresql-2.png';
-// import python from './images/python-2.png';
-// import react from './images/react-2.png';
-// import wordpress from './images/wordpress-2.png';
 
 class AboutPage extends Component {
     render() {
@@ -35,9 +23,6 @@ class AboutPage extends Component {
                 </div>
                 <h2>Skills</h2>
                 <span>Django | Git | GitHub | MongoDB | Node.js | PHP | Python | PostgreSQL | React.js | Webflow | Wordpress</span>
-                {/* <span><img src={react} alt="" /><img src={mongodb} alt="" /><img src={django} alt="" /><img src={python} alt="" />
-                    <img src={html5} alt="" /><img src={javascript} alt="" /><img src={css} alt="" /><img src={nodejs} alt="" />
-                    <img src={postgresql} alt="" /><img src={github} alt="" /><img src={bootstrap} alt="" /><img src={wordpress} alt="" /> </span> */}
             </div>
 
         );

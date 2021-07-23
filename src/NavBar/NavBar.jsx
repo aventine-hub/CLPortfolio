@@ -7,7 +7,6 @@ import hex from './hexpattern.png';
 const NavBar = () => {
     let nav =
 
-
         <div className="Nav">
             <Link to=''><img className="hexpattern" src={hex} alt="hex pattern" /></Link>
             <NavLink className="link" exact to='/' >Home</NavLink>
@@ -21,7 +20,6 @@ const NavBar = () => {
       <a className="link" href="https://github.com/aventine-hub/" >GitHub</a>
 
         </div>
-
 
     return (
         <div className='NavBar'>

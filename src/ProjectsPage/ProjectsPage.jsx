@@ -6,7 +6,6 @@ import connect from './Projects/ConnectIV.png';
 import bols from './Projects/BoLSInteractive.jpg';
 import neruda from './Projects/Neruda.png'
 
-
 class ProjectsPage extends Component {
     render() {
         return (
