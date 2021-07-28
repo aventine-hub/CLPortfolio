@@ -18,7 +18,6 @@ const NavBar = () => {
       <a className="link" href="https://www.linkedin.com/in/chrisallenlong/" >LinkedIn</a>
       &nbsp;|&nbsp;
       <a className="link" href="https://github.com/aventine-hub/" >GitHub</a>
-
         </div>
 
     return (

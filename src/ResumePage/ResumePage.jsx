@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import './ResumePage.css';
 import resume from './CL Resume.png';
 
-
 class ResumePage extends Component {
     render() {
         return (
