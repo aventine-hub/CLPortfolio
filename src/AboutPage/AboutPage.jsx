@@ -22,7 +22,7 @@ class AboutPage extends Component {
                 <br></br>
                 </div>
                 <h2>Skills</h2>
-                <span>Django | Git | GitHub | MongoDB | Node.js | PHP | Python | PostgreSQL | React.js | Webflow | Wordpress</span>
+                <span>Javascript | Python | Java | Django | React.js | Cascading Style Sheets | Git | GitHub | PHP | PostgreSQL | MongoDB | Node.js | HTML5 | Wordpress | Problem Solving | Communication | Leadership | Collaboration | Mentor  </span>
             </div>
 
         );
