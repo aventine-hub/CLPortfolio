@@ -10,7 +10,7 @@ I am a creative and result-oriented full-stack web developer with a passion for 
 
 ### Skills
 
-Javascript | Microsoft Excel | Python | Java | Django | React.js | Cascading Style Sheets | Git | GitHub | PostgreSQL | MongoDB | Node.js | HTML5 | Wordpress | Problem Solving | Management | Communication | Leadership | Training | Teaching  
+Javascript | Python | Java | Django | React.js | Cascading Style Sheets | Git | GitHub | PHP | PostgreSQL | MongoDB | Node.js | HTML5 | Wordpress | Problem Solving | Communication | Leadership | Collaboration | Mentor  
 
 ### Experience
 
@@ -32,13 +32,13 @@ Developed a portfolio of individually and collaboratively focused in-class proje
 Elementary Guide, August 2018 - August 2020
 
 - Provided a consistent and pleasant environment for children aged 6-9.
-- Planned and coordinated successful community events for 200+ families.
-- Successfully guided children through challenges, both educational and emotional. 
+- Planned and coordinated successful community events by communicating with 200+ families.
+- Successfully mentored children through challenges, both educational and emotional. 
 
 #### Texas Parks and Wildlife Department | Houston, TX and Austin, TX
 Outdoor Recreation Coordinator, June 2016 - August 2018
-- Assisted and co-lead Texas Outdoor Family Programs in Texas State Parks.
-- Conducted award-winning outdoor education programs including camping, fishing, hiking, kayaking, geocaching, biking, and outdoor cooking.
+- Assisted and collaborated on Texas Outdoor Family Programs in Texas State Parks.
+- Conducted award-winning outdoor education programs while communicating ideas to a wide range of abilities.
 - Planned and conducted outreach events on behalf of Texas State Parks; spoke with over 2,000 stakeholders about Texas State Parks between June and August.
 
 
