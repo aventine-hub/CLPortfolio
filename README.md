@@ -1,7 +1,7 @@
 # Chris A Long
 
 Austin, TX | (512) 332-4074 | c.aventine@gmail.com | linkedin.com/in/chrisallenlong/ | 
-github.com/aventine-hub | clportfolio2020.herokuapp.com/
+github.com/aventine-hub | clong-portfolio.com
 _____________________________________________________________________________________
 
 ### Software Developer 
