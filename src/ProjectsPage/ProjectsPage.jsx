@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './ProjectsPage.css';
 import sneaker from './Projects/Sneaker.jpg';
-import swimhole from './Projects/Swimhole.jpg';
+// import swimhole from './Projects/Swimhole.jpg';
 import connect from './Projects/ConnectIV.png';
 import bols from './Projects/BoLSInteractive.jpg';
 import neruda from './Projects/Neruda.png'
