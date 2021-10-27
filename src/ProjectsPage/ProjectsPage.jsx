@@ -59,14 +59,14 @@ class ProjectsPage extends Component {
                     <a href="https://aventine-hub.github.io/neruda/" >Neruda</a>
                 </div>
 
-                <img className="pro5" src={swimhole} alt="Swim Hole" />
+                {/* <img className="pro5" src={swimhole} alt="Swim Hole" />
                 <div className="link5">
                     <p>SWIM HOLE is an app designed to help users find and keep track of their favorite off-the-grid swimming spots.
                     Users can create new swimming locations based off their coordinates and leave reviews and information about them
                     for others. This app was developed using JavaScript, HTML, CSS, NodeJS, Express, MongoDB, Mongoose,
                     and the Google Maps API.</p>
                     <a href="https://swim-hole.herokuapp.com/locations" >SwimHOLE</a>
-                </div>
+                </div> */}
             </div>
         );
     }
